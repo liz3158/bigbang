@@ -16,11 +16,11 @@ To check if Node.js is installed, run:
 
 ```bash
 node -v
-
+```bash
 ---
 
 Open a terminal in the folder where bigbang.js is saved, then run:
-
+```bash
 node bigbang.js
-
+```bash
 After running the script, a file called output.json will be created in the same directory. 
