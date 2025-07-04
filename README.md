@@ -1,13 +1,13 @@
 # BIG BANG Number Generator 🔢💥
 
-## 📁 Files
+## Files
 
 - `bigbang.js` — The main script file
 - `output.json` — The output JSON file (generated after running the script)
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed.
